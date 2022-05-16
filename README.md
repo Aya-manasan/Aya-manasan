@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aya-manasan
+- 👋 Hi, I’m @Nadeem
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning to identify oppurtunities in web3 space
 - 💞️ I’m looking to collaborate on ...
